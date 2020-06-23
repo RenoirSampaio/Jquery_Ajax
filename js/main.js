@@ -1,4 +1,3 @@
-
 function consultaCep(){
     if(document.getElementById("cep").value != '') {
         $(".barra-progresso").show();
